@@ -12,7 +12,57 @@
     "width": "12ft wide",
     "finish": "Cut Pile Texture",
     "warranty": "Ask in-store",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Arizona-Sand-11068.jpg",
+        "label": "Arizona Sand"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Haze-On-The-Town-89834.jpg",
+        "label": "Haze on Town"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Putty-Grey-14235.jpg",
+        "label": "Putty Grey"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Dune-White-14477.jpg",
+        "label": "Dune White"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Shammy-16319.jpg",
+        "label": "Shammy"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Burnt-Leaf-18926.jpg",
+        "label": "Burnt Leaf"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Beige-Clay-19018.jpg",
+        "label": "Beige Clay"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Warm-Grey-74562.jpg",
+        "label": "Warm Grey"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Downtown-Brown-86837.jpg",
+        "label": "Downtown Brown"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Morning-Light-88664.jpg",
+        "label": "Morning Light"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Brewing-Storm-89835.jpg",
+        "label": "Brewing Storm"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Black-Ice-89418.jpg",
+        "label": "Black Ice"
+      }
+    ]
   },
   {
     "id": 2,
@@ -27,7 +77,29 @@
     "width": "12ft wide",
     "finish": "Pattern Pile",
     "warranty": "Ask in-store",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Ancestral.jpg",
+        "label": "Ancestral"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Mist.jpg",
+        "label": "Mist"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Bliss.jpg",
+        "label": "Bliss"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Shale.jpg",
+        "label": "Shale"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Chiffon.jpg",
+        "label": "Chiffon"
+      }
+    ]
   },
   {
     "id": 3,
@@ -42,7 +114,57 @@
     "width": "12ft wide",
     "finish": "Cut Pile",
     "warranty": "Ask in-store",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Fresh-Cream-11044.jpg",
+        "label": "Fresh Cream"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Democracy-13238.jpg",
+        "label": "Democracy"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Clear-Ochre-Brown-18659.jpg",
+        "label": "Clear Ochre Brown"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Clear-Ochre-Brown-.jpg",
+        "label": "Clear Ochre Brown Alt"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Legionary-Grey.jpg",
+        "label": "Legionary Grey"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Cabriolet-Brown-.jpg",
+        "label": "Cabriolet Brown"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Coconut-Brown-.jpg",
+        "label": "Coconut Brown"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Sand-Martin-.jpg",
+        "label": "Sand Martin"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Fieldstone-.jpg",
+        "label": "Fieldstone"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Comet-Grey-.jpg",
+        "label": "Comet Grey"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Mountain-Rocks-.jpg",
+        "label": "Mountain Rocks"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Calm-Night-.jpg",
+        "label": "Calm Night"
+      }
+    ]
   },
   {
     "id": 4,
@@ -57,7 +179,41 @@
     "width": "12ft wide",
     "finish": "Cut Pile",
     "warranty": "Ask in-store",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Crossroads.jpeg",
+        "label": "Crossroads"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Autumn-Ash.jpeg",
+        "label": "Autumn Ash"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Pecan-Delight.jpeg",
+        "label": "Pecan Delight"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Caviar-Dream.jpeg",
+        "label": "Caviar Dream"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Bittersweet.jpeg",
+        "label": "Bittersweet"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Rustic-Taupe.jpeg",
+        "label": "Rustic Taupe"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Southern-Road.jpeg",
+        "label": "Southern Road"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Satin-Glow.jpeg",
+        "label": "Satin Glow"
+      }
+    ]
   },
   {
     "id": 5,
@@ -72,7 +228,45 @@
     "width": "12ft wide",
     "finish": "Cut Pile",
     "warranty": "Ask in-store",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Shasta-White.jpg",
+        "label": "Shasta White"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Graffiti-Beige.jpg",
+        "label": "Graffiti Beige"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Oat-Bread.jpg",
+        "label": "Oat Bread"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Gaspe-Grey.jpg",
+        "label": "Gaspe Grey"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Merlin-Grey.jpg",
+        "label": "Merlin Grey"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Metallic-Grey.jpg",
+        "label": "Metallic Grey"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Silvered-Sky.jpg",
+        "label": "Silvered Sky"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Manila-Sand.jpg",
+        "label": "Manila Sand"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Moonbeam.jpg",
+        "label": "Moonbeam"
+      }
+    ]
   },
   {
     "id": 6,
@@ -87,7 +281,33 @@
     "width": "12ft wide",
     "finish": "Cut Pile",
     "warranty": "Ask in-store",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Cosmopolitan.jpeg",
+        "label": "Cosmopolitan"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Forest-Twilight.jpeg",
+        "label": "Forest Twilight"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Backcountry.jpeg",
+        "label": "Backcountry"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Overcast.jpeg",
+        "label": "Overcast"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Cattails.jpeg",
+        "label": "Cattails"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Dovetail.jpeg",
+        "label": "Dovetail"
+      }
+    ]
   },
   {
     "id": 7,
@@ -102,7 +322,13 @@
     "width": "7 inches",
     "finish": "Wire-Brushed",
     "warranty": "Ask in-store",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Oak-Emory.png",
+        "label": "Oak-Emory"
+      }
+    ]
   },
   {
     "id": 8,
@@ -117,7 +343,13 @@
     "width": "7 inches",
     "finish": "Wire-Brushed",
     "warranty": "Ask in-store",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Oak-Carleton.jpg",
+        "label": "Oak-Carleton"
+      }
+    ]
   },
   {
     "id": 9,
@@ -132,7 +364,13 @@
     "width": "7 inches",
     "finish": "Wire-Brushed",
     "warranty": "Ask in-store",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Oak-Cornell.jpg",
+        "label": "Oak-Cornell"
+      }
+    ]
   },
   {
     "id": 10,
@@ -147,7 +385,13 @@
     "width": "7 inches",
     "finish": "Wire-Brushed",
     "warranty": "Ask in-store",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Oak-Satin-White.jpg",
+        "label": "Oak-Satin"
+      }
+    ]
   },
   {
     "id": 11,
@@ -162,7 +406,13 @@
     "width": "7 inches",
     "finish": "Wire-Brushed",
     "warranty": "Ask in-store",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Oak-Original.jpg",
+        "label": "Oak-Original"
+      }
+    ]
   },
   {
     "id": 12,
@@ -177,7 +427,13 @@
     "width": "7 inches",
     "finish": "Wire-Brushed",
     "warranty": "Ask in-store",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Oak-Mascara.jpg",
+        "label": "Oak-Mascara"
+      }
+    ]
   },
   {
     "id": 13,
@@ -192,7 +448,13 @@
     "width": "7 inches",
     "finish": "Wire-Brushed",
     "warranty": "Ask in-store",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Oak-Honolulu.jpg",
+        "label": "Oak-Honolulu"
+      }
+    ]
   },
   {
     "id": 14,
@@ -207,7 +469,13 @@
     "width": "7 inches",
     "finish": "Wire-Brushed",
     "warranty": "Ask in-store",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Oak-Princeton.jpg",
+        "label": "Oak-Princeton"
+      }
+    ]
   },
   {
     "id": 15,
@@ -222,7 +490,13 @@
     "width": "7 inches",
     "finish": "Wire-Brushed",
     "warranty": "Ask in-store",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Oak-Baylor.jpg",
+        "label": "Oak-Baylor"
+      }
+    ]
   },
   {
     "id": 16,
@@ -237,7 +511,13 @@
     "width": "7 inches",
     "finish": "Wire-Brushed",
     "warranty": "Ask in-store",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Oak-Fordham.jpg",
+        "label": "Oak-Fordham"
+      }
+    ]
   },
   {
     "id": 17,
@@ -252,7 +532,13 @@
     "width": "7 inches",
     "finish": "Wire-Brushed",
     "warranty": "Ask in-store",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Oak-Kenyon.jpg",
+        "label": "Oak-Kenyon"
+      }
+    ]
   },
   {
     "id": 18,
@@ -267,7 +553,13 @@
     "width": "7 inches",
     "finish": "Wire-Brushed",
     "warranty": "Ask in-store",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Oak-Authentic-Grey.jpg",
+        "label": "Oak-Authentic-Grey"
+      }
+    ]
   },
   {
     "id": 19,
@@ -282,7 +574,13 @@
     "width": "7 inches",
     "finish": "Wire-Brushed",
     "warranty": "Ask in-store",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Oak-Berkeley.jpg",
+        "label": "Oak-Berkeley"
+      }
+    ]
   },
   {
     "id": 22,
@@ -297,7 +595,13 @@
     "width": "7.5 inches",
     "finish": "Synchronized Emboss",
     "warranty": "Lifetime Waterproof",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Royal-Feature-Image-Louis.jpg",
+        "label": "Louis"
+      }
+    ]
   },
   {
     "id": 23,
@@ -312,7 +616,13 @@
     "width": "7.5 inches",
     "finish": "Synchronized Emboss",
     "warranty": "Lifetime Waterproof",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Royal-Feature-Image-Charlotte.jpg",
+        "label": "Charlotte"
+      }
+    ]
   },
   {
     "id": 24,
@@ -327,7 +637,13 @@
     "width": "7.5 inches",
     "finish": "Synchronized Emboss",
     "warranty": "Lifetime Waterproof",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Royal-Feature-Image-George.jpg",
+        "label": "George"
+      }
+    ]
   },
   {
     "id": 25,
@@ -342,7 +658,13 @@
     "width": "7.5 inches",
     "finish": "Synchronized Emboss",
     "warranty": "Lifetime Waterproof",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Royal-Feature-Image-Catherine-1.jpg",
+        "label": "Catherine"
+      }
+    ]
   },
   {
     "id": 26,
@@ -357,7 +679,13 @@
     "width": "7.5 inches",
     "finish": "Synchronized Emboss",
     "warranty": "Lifetime Waterproof",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Royal-Feature-Image-Andrew.jpg",
+        "label": "Andrew"
+      }
+    ]
   },
   {
     "id": 27,
@@ -372,7 +700,13 @@
     "width": "7.5 inches",
     "finish": "Synchronized Emboss",
     "warranty": "Lifetime Waterproof",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Royal-Feature-Image-Philip.jpg",
+        "label": "Philip"
+      }
+    ]
   },
   {
     "id": 28,
@@ -387,7 +721,13 @@
     "width": "7.5 inches",
     "finish": "Synchronized Emboss",
     "warranty": "Lifetime Waterproof",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Royal-Feature-Image-Elizabeth.jpg",
+        "label": "Elizabeth"
+      }
+    ]
   },
   {
     "id": 29,
@@ -402,7 +742,13 @@
     "width": "7.5 inches",
     "finish": "Synchronized Emboss",
     "warranty": "Lifetime Waterproof",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Royal-Feature-Image-Meghan.jpg",
+        "label": "Meghan"
+      }
+    ]
   },
   {
     "id": 30,
@@ -417,7 +763,13 @@
     "width": "7.5 inches",
     "finish": "Synchronized Emboss",
     "warranty": "Lifetime Waterproof",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Royal-Feature-Image-Harry.jpg",
+        "label": "Harry"
+      }
+    ]
   },
   {
     "id": 31,
@@ -432,7 +784,13 @@
     "width": "7.5 inches",
     "finish": "Synchronized Emboss",
     "warranty": "Lifetime Waterproof",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Royal-Feature-Image-Diana.jpg",
+        "label": "Diana"
+      }
+    ]
   },
   {
     "id": 32,
@@ -447,7 +805,29 @@
     "width": "9 x 71 inches",
     "finish": "20mil Wear Layer",
     "warranty": "Lifetime Waterproof",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Ultra-Max-Autumn-Hill-UM6010-scaled.webp",
+        "label": "Autumn Hill"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Ultra-Max-Autumn-Hill-UM6010-2.webp",
+        "label": "Autumn Hill 2"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Ultra-Max-Autumn-Hill-UM6010-7.webp",
+        "label": "Autumn Hill 3"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Ultra-Max-Autumn-Hill-UM6010-1.webp",
+        "label": "Autumn Hill 4"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Ultra-Max-Autumn-Hill-UM6010-8.webp",
+        "label": "Autumn Hill 5"
+      }
+    ]
   },
   {
     "id": 33,
@@ -462,7 +842,29 @@
     "width": "9 x 71 inches",
     "finish": "20mil Wear Layer",
     "warranty": "Lifetime Waterproof",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Velvet-Snow-UM-6011-1.webp",
+        "label": "Velvet Snow"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Velvet-Snow-UM-6011-3-scaled.webp",
+        "label": "Velvet Snow 2"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Velvet-Snow-UM-6011-7.webp",
+        "label": "Velvet Snow 3"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Velvet-Snow-UM-6011-8.webp",
+        "label": "Velvet Snow 4"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Velvet-Snow-UM-6011-9.webp",
+        "label": "Velvet Snow 5"
+      }
+    ]
   },
   {
     "id": 34,
@@ -477,7 +879,29 @@
     "width": "9 x 71 inches",
     "finish": "20mil Wear Layer",
     "warranty": "Lifetime Waterproof",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/First-Light-UM6012-1.webp",
+        "label": "First Light"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/First-Light-UM6012-8.webp",
+        "label": "First Light 2"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/First-Light-UM6012-4.webp",
+        "label": "First Light 3"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/First-Light-UM6012-6.webp",
+        "label": "First Light 4"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/First-Light-UM6012-10.webp",
+        "label": "First Light 5"
+      }
+    ]
   },
   {
     "id": 35,
@@ -492,7 +916,29 @@
     "width": "9 x 71 inches",
     "finish": "20mil Wear Layer",
     "warranty": "Lifetime Waterproof",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Simple-Serenity-UM6014-1.webp",
+        "label": "Simple Serenity"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/6Simple-Serenity-UM014-5.webp",
+        "label": "Simple Serenity 2"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Simple-Serenity-UM6014-6.webp",
+        "label": "Simple Serenity 3"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Simple-Serenity-UM6014-9.webp",
+        "label": "Simple Serenity 4"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Simple-Serenity-UM6014-11.webp",
+        "label": "Simple Serenity 5"
+      }
+    ]
   },
   {
     "id": 36,
@@ -507,7 +953,29 @@
     "width": "9 x 71 inches",
     "finish": "20mil Wear Layer",
     "warranty": "Lifetime Waterproof",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Sea-Mist-UM6015-1.webp",
+        "label": "Sea Mist"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Sea-Mist-UM6015-2.webp",
+        "label": "Sea Mist 2"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Sea-Mist-UM6015-6.webp",
+        "label": "Sea Mist 3"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Sea-Mist-UM6015-8.webp",
+        "label": "Sea Mist 4"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Sea-Mist-UM6015-9.webp",
+        "label": "Sea Mist 5"
+      }
+    ]
   },
   {
     "id": 37,
@@ -522,7 +990,29 @@
     "width": "9 x 71 inches",
     "finish": "20mil Wear Layer",
     "warranty": "Lifetime Waterproof",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Desert-Oasis-UM6016-8.webp",
+        "label": "Desert Oasis"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Desert-Oasis-UM6016-1.webp",
+        "label": "Desert Oasis 2"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Desert-Oasis-UM6016-2.webp",
+        "label": "Desert Oasis 3"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Desert-Oasis-UM6016-5.webp",
+        "label": "Desert Oasis 4"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Desert-Oasis-UM6016-6.webp",
+        "label": "Desert Oasis 5"
+      }
+    ]
   },
   {
     "id": 38,
@@ -537,7 +1027,29 @@
     "width": "9 x 71 inches",
     "finish": "20mil Wear Layer",
     "warranty": "Lifetime Waterproof",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Canyon-Dusk-UM6017-1.webp",
+        "label": "Canyon Dusk"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Canyon-Dusk-UM6017-2.webp",
+        "label": "Canyon Dusk 2"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Canyon-Dusk-UM6017-5.webp",
+        "label": "Canyon Dusk 3"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Canyon-Dusk-UM6017-11.webp",
+        "label": "Canyon Dusk 4"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Canyon-Dusk-UM6017-8.webp",
+        "label": "Canyon Dusk 5"
+      }
+    ]
   },
   {
     "id": 39,
@@ -552,7 +1064,29 @@
     "width": "9 x 71 inches",
     "finish": "20mil Wear Layer",
     "warranty": "Lifetime Waterproof",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Red-Rock-UM6018-20.webp",
+        "label": "Red Rock"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Red-Rock-UM6018-11.webp",
+        "label": "Red Rock 2"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Red-Rock-UM6018-15.webp",
+        "label": "Red Rock 3"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Red-Rock-UM6018-18.webp",
+        "label": "Red Rock 4"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Red-Rock-UM6018-19.webp",
+        "label": "Red Rock 5"
+      }
+    ]
   },
   {
     "id": 40,
@@ -567,7 +1101,29 @@
     "width": "9 x 71 inches",
     "finish": "20mil Wear Layer",
     "warranty": "Lifetime Waterproof",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Deja-vu-UM893A5377.webp",
+        "label": "Deja-vu"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Deja-vu-UM893A5381.webp",
+        "label": "Deja-vu 2"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Deja-vu-UM893A5382.webp",
+        "label": "Deja-vu 3"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Deja-vu-UM893A5386.webp",
+        "label": "Deja-vu 4"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Deja-vu-UM893A5389.webp",
+        "label": "Deja-vu 5"
+      }
+    ]
   },
   {
     "id": 41,
@@ -582,7 +1138,29 @@
     "width": "9 x 71 inches",
     "finish": "20mil Wear Layer",
     "warranty": "Lifetime Waterproof",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Blanche-UM893A5375.webp",
+        "label": "Blanche"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Blanche-UM893A5362.webp",
+        "label": "Blanche 2"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Blanche-UM893A5365.webp",
+        "label": "Blanche 3"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Blanche-UM893A5366.webp",
+        "label": "Blanche 4"
+      },
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Blanche-UM893A5367.webp",
+        "label": "Blanche 5"
+      }
+    ]
   },
   {
     "id": 42,
@@ -597,7 +1175,13 @@
     "width": "24x24\"",
     "finish": "Stone Emboss",
     "warranty": "Lifetime Structural",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Lericy_Marble-1140x760-c-bottom.jpg",
+        "label": "Lericy Marble"
+      }
+    ]
   },
   {
     "id": 43,
@@ -612,7 +1196,13 @@
     "width": "24x24\"",
     "finish": "Stone Emboss",
     "warranty": "Lifetime Structural",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Ivory_Marble-1140x760-c-bottom.jpg",
+        "label": "Ivory Marble"
+      }
+    ]
   },
   {
     "id": 44,
@@ -627,7 +1217,13 @@
     "width": "24x24\"",
     "finish": "Stone Emboss",
     "warranty": "Lifetime Structural",
-    "price": "Contact for pricing"
+    "price": "Contact for pricing",
+    "images": [
+      {
+        "url": "https://floorifycanada.ca/wp-content/uploads/2026/03/Himalaya_Marble-1140x760-c-bottom.jpg",
+        "label": "Himalaya Marble"
+      }
+    ]
   },
   {
     "id": 45,
@@ -642,7 +1238,8 @@
     "width": "Various",
     "finish": "Mixed Finishes",
     "warranty": "15 years",
-    "price": "$10.99/sqft"
+    "price": "$10.99/sqft",
+    "images": []
   },
   {
     "id": 46,
@@ -657,7 +1254,8 @@
     "width": "18x18\"",
     "finish": "Honed",
     "warranty": "Lifetime",
-    "price": "$8.49/sqft"
+    "price": "$8.49/sqft",
+    "images": []
   },
   {
     "id": 47,
@@ -672,7 +1270,8 @@
     "width": "24x48\"",
     "finish": "Polished",
     "warranty": "25 years",
-    "price": "$13.99/sqft"
+    "price": "$13.99/sqft",
+    "images": []
   },
   {
     "id": 48,
@@ -687,7 +1286,8 @@
     "width": "Custom",
     "finish": "Fabric",
     "warranty": "Limited Lifetime",
-    "price": "Contact us for pricing"
+    "price": "Contact us for pricing",
+    "images": []
   },
   {
     "id": 49,
@@ -702,7 +1302,8 @@
     "width": "Custom",
     "finish": "Wood Grain",
     "warranty": "Limited Lifetime",
-    "price": "Contact us for pricing"
+    "price": "Contact us for pricing",
+    "images": []
   },
   {
     "id": 50,
@@ -717,7 +1318,8 @@
     "width": "Custom",
     "finish": "Woven Fabric",
     "warranty": "Limited Lifetime",
-    "price": "Contact us for pricing"
+    "price": "Contact us for pricing",
+    "images": []
   },
   {
     "id": 51,
@@ -732,6 +1334,7 @@
     "width": "Custom",
     "finish": "Smooth Roll",
     "warranty": "Limited Lifetime",
-    "price": "Contact us for pricing"
+    "price": "Contact us for pricing",
+    "images": []
   }
 ]

@@ -12,7 +12,8 @@ const read = (chunk, key) => {
 const products = chunks.map((chunk) => ({
   id: Number(read(chunk, "id")), category: read(chunk, "c"), blindType: read(chunk, "bt"), brand: read(chunk, "b"),
   name: read(chunk, "n"), collection: read(chunk, "m"), description: read(chunk, "desc"), image: read(chunk, "img"),
-  type: read(chunk, "tk"), width: read(chunk, "w"), finish: read(chunk, "f"), warranty: read(chunk, "wr"), price: read(chunk, "p")
+  type: read(chunk, "tk"), width: read(chunk, "w"), finish: read(chunk, "f"), warranty: read(chunk, "wr"), price: read(chunk, "p"),
+  images: [...chunk.matchAll(/\{url:'([^']+)',label:'([^']+)'\}/g)].map((match) => ({ url: match[1], label: match[2] }))
 })).filter((p) => p.id && p.name && p.image);
 fs.writeFileSync("app/showroom-products.json", JSON.stringify(products, null, 2) + "\n");
 console.log(`Extracted ${products.length} showroom products.`);
