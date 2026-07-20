@@ -46,13 +46,12 @@ export function EstimateForm() {
       website:data.get("website")
     };
     try {
-      const response=await fetch(LEAD_FORM_ENDPOINT,{
+      await fetch(LEAD_FORM_ENDPOINT,{
         method:"POST",
+        mode:"no-cors",
         headers:{"Content-Type":"text/plain;charset=utf-8"},
         body:JSON.stringify(payload)
       });
-      const result=await response.json();
-      if(!response.ok||!result.success) throw new Error(result.error||"Submission failed");
       setStatus("sent");
       e.currentTarget.reset();
     } catch {
