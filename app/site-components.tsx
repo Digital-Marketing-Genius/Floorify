@@ -4,7 +4,7 @@ import { FormEvent, useState } from "react";
 
 const LEAD_FORM_ENDPOINT =
   process.env.NEXT_PUBLIC_LEAD_FORM_ENDPOINT ||
-  "https://script.google.com/macros/s/AKfycbysOkCQZJrVGPhxkoxcpuwHGKGJ1RDORYzTdNfxLHsD1DSO_qs0MtKdsTwVtOpv3es4Cw/exec";
+  "https://script.google.com/macros/s/AKfycbyK2ec2q9BVOMJSgbdR5A4U7fdaz_usUlcOJiAE9hnZoSHuiQougIbHe2kNl0-BQ7-Wxw/exec";
 
 export function Icon({ name }: { name: string }) {
   const symbols: Record<string, string> = { arrow: "→", check: "✓", phone: "☎", clock: "◷", pin: "⌖" };
