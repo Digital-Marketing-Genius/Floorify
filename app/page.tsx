@@ -7,7 +7,7 @@ const products = [
   { name: "Carpet", copy: "Soft, quiet comfort for bedrooms, family rooms and stairs.", href: "/flooring/carpet", image: "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=1000&q=85" },
   { name: "Laminate", copy: "Durable wood-look flooring designed for busy homes.", href: "/flooring/laminate", image: "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?auto=format&fit=crop&w=1000&q=85" },
   { name: "Tile", copy: "Timeless surfaces for kitchens, bathrooms and entryways.", href: "/flooring/tile", image: "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=1000&q=85" },
-  { name: "Windows & Blinds", copy: "Custom shades and blinds for privacy, comfort and light control.", href: "/flooring/blinds", image: "https://floorifycanada.ca/wp-content/uploads/2026/03/Honeycomb-Cellular-Shades.png" },
+  { name: "Windows & Blinds", copy: "Custom shades and blinds for privacy, comfort and light control.", href: "/flooring/blinds", image: "/wp-assets/2026/03/Honeycomb-Cellular-Shades.png" },
 ];
 
 export default function Home() {

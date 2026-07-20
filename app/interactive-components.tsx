@@ -4,9 +4,9 @@ import { useEffect, useMemo, useState } from "react";
 import products from "./showroom-products.json";
 
 const heroImages = [
-  "https://floorifycanada.ca/wp-content/uploads/2026/03/IMG_7001-scaled.jpg",
-  "https://floorifycanada.ca/wp-content/uploads/2026/03/IMG_6997-scaled.jpg",
-  "https://floorifycanada.ca/wp-content/uploads/2026/03/IMG_6998-scaled.jpg",
+  "/wp-assets/2026/03/IMG_7001-scaled.jpg",
+  "/wp-assets/2026/03/IMG_6997-scaled.jpg",
+  "/wp-assets/2026/03/IMG_6998-scaled.jpg",
 ];
 
 export function HeroSlider() {
